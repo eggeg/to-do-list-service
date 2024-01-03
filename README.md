@@ -5,13 +5,13 @@ Overview
 The To-Do List App is a simple, user-friendly application that allows users to add, check off, and delete tasks. This app is built with HTML, CSS, and JavaScript, featuring a sleek design and intuitive interaction.
 Features
 ![image](https://github.com/eggeg/to-do-list-service/assets/82609842/70dade58-71e3-45d0-a856-e883ac5334f7)
-
+![image](https://github.com/eggeg/to-do-list-service/assets/82609842/17924826-3320-4174-83c6-2ad80ca0bdf1)
+![image](https://github.com/eggeg/to-do-list-service/assets/82609842/a950ebea-9e23-40c4-9fcc-48275c4a991c)
 
     Add Tasks: Users can add new tasks to their to-do list.
-    ![image](https://github.com/eggeg/to-do-list-service/assets/82609842/17924826-3320-4174-83c6-2ad80ca0bdf1)
+    
 
     Check Off Tasks: Users can mark tasks as completed, which visually updates the task as 'checked'.
-    ![image](https://github.com/eggeg/to-do-list-service/assets/82609842/a950ebea-9e23-40c4-9fcc-48275c4a991c)
 
     Delete Tasks: Users can remove tasks from the list.
     
